@@ -10,13 +10,14 @@ import AxiosPutDemo from "./demos/AxiosPutDemo";
 function App() {
   return (
     <div className="App" style={{ maxWidth: "1000px", margin: "auto" }}>
+      <FormLibDemo />
+      <hr />
       <AxiosPutDemo />
       <hr />
       <AxiosLibDemo />
       <hr />
       <CalenderLibDemo />
-      <hr />
-      <FormLibDemo />
+
       <hr />
       <MapLibDemo />
       <hr />
