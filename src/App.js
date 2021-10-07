@@ -3,7 +3,7 @@ import "./App.css";
 import AxiosLibDemo from "./demos/AxiosLibDemo";
 import CalenderLibDemo from "./demos/CalenderLibDemo";
 import FormLibDemo from "./demos/FormLibDemo";
-import MapLibDemo from "./demos/MapLibDemo";
+// import MapLibDemo from "./demos/MapLibDemo";
 import TableLibDemo from "./demos/TableLibDemo";
 import AxiosPutDemo from "./demos/AxiosPutDemo";
 
@@ -19,7 +19,7 @@ function App() {
       <CalenderLibDemo />
 
       <hr />
-      <MapLibDemo />
+      {/* <MapLibDemo /> */}
       <hr />
       <TableLibDemo />
     </div>
